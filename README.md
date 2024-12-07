@@ -1,5 +1,4 @@
-**#Messaging system using pure java features using concurrent package#
-**
+**Messaging system using pure java features using concurrent package**
 Having a Player class - an instance of this class with that can communicate with other Player(s) (other instances of this class)
 
 The use case for this task is as bellow:
